@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NeutroFlashp
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Web Design
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me neutroflashp@hotmail.com
 
